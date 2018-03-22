@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2821782-d7ec-4164-bd8a-c6cb77f7294d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/Student.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/Teacher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/User.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/models/otherfuns.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/n1_hello.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/n2_funcall.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/n3_modelcall.js" afterPath="" />
-    </list>
+    <list default="true" id="e2821782-d7ec-4164-bd8a-c6cb77f7294d" name="Default" comment="" />
     <ignored path="nodejs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -169,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521734967546</updated>
-      <workItem from="1521734968907" duration="17000" />
+      <workItem from="1521734968907" duration="76000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17000" />
+    <option name="totallyTimeSpent" value="76000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
